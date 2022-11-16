@@ -1,0 +1,154 @@
+20190409_Ripple2_d01.dat
+
+bin: 1ms
+part: 1
+log-evidence: -221085.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09721099349128948
+0.9489113122060469
+
+part: 2
+log-evidence: -208401.93
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1259934102110808
+0.9327678937216157
+
+bin: 5ms
+part: 1
+log-evidence: -146714.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17269450031874778
+0.9054922669751325
+
+part: 2
+log-evidence: -139984.51
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16707675505109798
+0.9088468349607536
+
+bin: 10ms
+part: 1
+log-evidence: -111792.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1958591717708893
+0.8914390890631644
+
+part: 2
+log-evidence: -107630.37
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2246415884906806
+0.8734669084088198
+
+bin: 15ms
+part: 1
+log-evidence: -91954.83
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26428774854238746
+0.8477352750604574
+
+part: 2
+log-evidence: -89258.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2534240052104717
+0.8549023884637722
+
+bin: 20ms
+part: 1
+log-evidence: -79011.15
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26428774854238746
+0.8477352750604574
+
+part: 2
+log-evidence: -77004.58
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.31098883865005433
+0.8158752021499398
+
+bin: 30ms
+part: 1
+log-evidence: -62453.34
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3039339085940945
+0.8208006691872737
+
+part: 2
+log-evidence: -61455.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.282206421930263
+0.8357157544811789
+
+bin: 40ms
+part: 1
+log-evidence: -52284.30
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2930701652621788
+0.828305675313717
+
+part: 2
+log-evidence: -51553.14
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33833407058153553
+0.7963886334842633
+
+bin: 50ms
+part: 1
+log-evidence: -45103.55
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33977125536984565
+0.7953467216678413
+
+part: 2
+log-evidence: -44716.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.282206421930263
+0.8357157544811789
+

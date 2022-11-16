@@ -1,0 +1,74 @@
+20190904_Vocalization_spk2_d02.dat
+
+bin: 1ms
+log-evidence: -291754.59
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1259934102110808
+0.9327678937216156
+
+bin: 5ms
+log-evidence: -207413.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13685715354299643
+0.9265450022776044
+
+bin: 10ms
+log-evidence: -168479.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2302593337583303
+0.8698909178329932
+
+bin: 15ms
+log-evidence: -145018.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2590417504781215
+0.8512073735546142
+
+bin: 20ms
+log-evidence: -128025.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.31098883865005433
+0.8158752021499398
+
+bin: 30ms
+log-evidence: -104172.06
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.282206421930263
+0.8357157544811787
+
+bin: 40ms
+log-evidence: -88118.68
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3562527439694111
+0.7832679308437541
+
+bin: 50ms
+log-evidence: -76365.33
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.36855367208963696
+0.7740939031922068
+

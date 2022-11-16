@@ -1,0 +1,74 @@
+20190828_Vocalization_d02.dat
+
+bin: 1ms
+log-evidence: -474152.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260833
+0.9011953577671055
+
+bin: 5ms
+log-evidence: -316030.91
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21265063241307514
+0.8810245851933408
+
+bin: 10ms
+log-evidence: -241314.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24390063241307525
+0.8611122827586796
+
+bin: 15ms
+log-evidence: -197991.03
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25569574963437935
+0.8534110379076454
+
+bin: 20ms
+log-evidence: -168055.76
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.31819574963437935
+0.810800960001615
+
+bin: 30ms
+log-evidence: -128493.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.31819574963437935
+0.810800960001615
+
+bin: 40ms
+log-evidence: -102975.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.31819574963437935
+0.810800960001615
+
+bin: 50ms
+log-evidence: -85301.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.30640063241307525
+0.8190831679102236
+

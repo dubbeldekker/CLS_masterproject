@@ -1,0 +1,370 @@
+20180727_Ripple2_d01.dat
+
+bin: 1ms
+minute: 1
+log-evidence: -79597.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+minute: 2
+log-evidence: -82501.67
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+minute: 3
+log-evidence: -74626.09
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+minute: 4
+log-evidence: -74735.67
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0
+
+minute: 5
+log-evidence: -69986.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+bin: 5ms
+minute: 1
+log-evidence: -50222.91
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+minute: 2
+log-evidence: -51817.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 3
+log-evidence: -47888.12
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476824
+0.9246117268712492
+
+minute: 4
+log-evidence: -48067.99
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 5
+log-evidence: -45503.17
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+bin: 10ms
+minute: 1
+log-evidence: -36760.79
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 2
+log-evidence: -37678.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 3
+log-evidence: -35381.03
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21030991785715247
+0.8824880799443541
+
+minute: 4
+log-evidence: -35618.87
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 5
+log-evidence: -33947.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905086
+0.8657180464588944
+
+bin: 15ms
+minute: 1
+log-evidence: -29453.33
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 2
+log-evidence: -30105.22
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 3
+log-evidence: -28591.37
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.306873278571435
+0.8187535081175066
+
+minute: 4
+log-evidence: -28881.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 5
+log-evidence: -27761.59
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+bin: 20ms
+minute: 1
+log-evidence: -24684.14
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 2
+log-evidence: -25071.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 3
+log-evidence: -24051.21
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.306873278571435
+0.8187535081175066
+
+minute: 4
+log-evidence: -24355.30
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 5
+log-evidence: -23630.96
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+bin: 30ms
+minute: 1
+log-evidence: -18435.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 2
+log-evidence: -18573.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905086
+0.8657180464588944
+
+minute: 3
+log-evidence: -18075.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 4
+log-evidence: -18469.74
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+minute: 5
+log-evidence: -18083.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+bin: 40ms
+minute: 1
+log-evidence: -14461.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476824
+0.9246117268712492
+
+minute: 2
+log-evidence: -14473.50
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33333333333333326
+0.7999999999999999
+
+minute: 3
+log-evidence: -14271.02
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.306873278571435
+0.8187535081175066
+
+minute: 4
+log-evidence: -14652.79
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905086
+0.8657180464588944
+
+minute: 5
+log-evidence: -14522.01
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23676997261905075
+0.8657180464588945
+
+bin: 50ms
+minute: 1
+log-evidence: -11689.02
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16666666666666663
+0.9090909090909092
+
+minute: 2
+log-evidence: -11635.72
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476813
+0.9246117268712493
+
+minute: 3
+log-evidence: -11634.77
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14020661190476824
+0.9246117268712492
+
+minute: 4
+log-evidence: -11989.66
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33333333333333326
+0.7999999999999999
+
+minute: 5
+log-evidence: -11998.90
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.306873278571435
+0.8187535081175066
+

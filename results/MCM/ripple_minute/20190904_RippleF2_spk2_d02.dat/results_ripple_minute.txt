@@ -1,0 +1,370 @@
+20190904_RippleF2_spk2_d02.dat
+
+bin: 1ms
+minute: 1
+log-evidence: -87984.69
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03125000000000011
+0.9841269841269845
+
+minute: 2
+log-evidence: -91989.78
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+minute: 3
+log-evidence: -93940.25
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+minute: 4
+log-evidence: -93527.79
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+minute: 5
+log-evidence: -94563.87
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03125000000000011
+0.9841269841269845
+
+bin: 5ms
+minute: 1
+log-evidence: -60720.70
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+minute: 2
+log-evidence: -63134.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+minute: 3
+log-evidence: -64489.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+minute: 4
+log-evidence: -64347.47
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+minute: 5
+log-evidence: -64630.86
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.10554511722130433
+0.9442873418729851
+
+bin: 10ms
+minute: 1
+log-evidence: -47568.09
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260844
+0.9011953577671051
+
+minute: 2
+log-evidence: -49187.98
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+minute: 3
+log-evidence: -50092.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+minute: 4
+log-evidence: -50177.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910894
+
+minute: 5
+log-evidence: -50239.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+bin: 15ms
+minute: 1
+log-evidence: -39789.76
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1875
+0.8965517241379314
+
+minute: 2
+log-evidence: -41001.06
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+minute: 3
+log-evidence: -41677.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+minute: 4
+log-evidence: -41766.96
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910894
+
+minute: 5
+log-evidence: -41686.47
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260855
+0.8820006249019293
+
+bin: 20ms
+minute: 1
+log-evidence: -34331.83
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+minute: 2
+log-evidence: -35317.10
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260855
+0.8820006249019293
+
+minute: 3
+log-evidence: -35852.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+minute: 4
+log-evidence: -35970.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260844
+0.8820006249019297
+
+minute: 5
+log-evidence: -35840.82
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+bin: 30ms
+minute: 1
+log-evidence: -26977.07
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+minute: 2
+log-evidence: -27725.44
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+minute: 3
+log-evidence: -28105.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+minute: 4
+log-evidence: -28216.32
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24234023444260855
+0.8621233533409369
+
+minute: 5
+log-evidence: -27945.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+bin: 40ms
+minute: 1
+log-evidence: -22150.25
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28538535166391266
+0.8335571482835173
+
+minute: 2
+log-evidence: -22773.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260855
+0.8820006249019293
+
+minute: 3
+log-evidence: -22989.82
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+minute: 4
+log-evidence: -23138.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2617951172213042
+0.8493876528509126
+
+minute: 5
+log-evidence: -22829.76
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+bin: 50ms
+minute: 1
+log-evidence: -18692.43
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+minute: 2
+log-evidence: -19149.28
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+minute: 3
+log-evidence: -19309.90
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.27359023444260855
+0.8415264788807096
+
+minute: 4
+log-evidence: -19465.51
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130444
+0.8697083946784425
+
+minute: 5
+log-evidence: -19119.39
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+

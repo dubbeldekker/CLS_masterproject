@@ -1,0 +1,162 @@
+20190904_Vocalization_spk2_d02.dat
+
+FIRST 100ms of vocs
+bin: 1ms
+log-evidence: -4288.24
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.028782416719791315
+0.9853986607242532
+
+LAST 100ms of vocs
+bin: 1ms
+log-evidence: -4460.00
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.028782416719791315
+0.9853986607242534
+
+FIRST 100ms of vocs
+bin: 5ms
+log-evidence: -3248.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.028782416719791315
+0.9853986607242531
+
+LAST 100ms of vocs
+bin: 5ms
+log-evidence: -3200.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.05756483343958263
+0.9703646049914157
+
+FIRST 100ms of vocs
+bin: 10ms
+log-evidence: -2849.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.05756483343958263
+0.9703646049914157
+
+LAST 100ms of vocs
+bin: 10ms
+log-evidence: -2669.44
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08634725015937394
+0.9548783079027447
+
+FIRST 100ms of vocs
+bin: 15ms
+log-evidence: -2667.94
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.11512966687916515
+0.9389190519601727
+
+LAST 100ms of vocs
+bin: 15ms
+log-evidence: -2350.33
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.05756483343958263
+0.9703646049914157
+
+FIRST 100ms of vocs
+bin: 20ms
+log-evidence: -2514.89
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14391208359895635
+0.9224648345979204
+
+LAST 100ms of vocs
+bin: 20ms
+log-evidence: -2103.73
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.05756483343958263
+0.9703646049914157
+
+FIRST 100ms of vocs
+bin: 30ms
+log-evidence: -2314.69
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1835582436506632
+0.8989462541207067
+
+LAST 100ms of vocs
+bin: 30ms
+log-evidence: -1819.95
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1259934102110808
+0.9327678937216156
+
+FIRST 100ms of vocs
+bin: 40ms
+log-evidence: -2086.10
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.20147691703853898
+0.8879764630505684
+
+LAST 100ms of vocs
+bin: 40ms
+log-evidence: -1602.43
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1547758269308721
+0.916120854479466
+
+FIRST 100ms of vocs
+bin: 50ms
+log-evidence: -1933.23
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2534240052104717
+0.854902388463772
+
+LAST 100ms of vocs
+bin: 50ms
+log-evidence: -1457.72
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16563957026278764
+0.9097017316893838
+

@@ -1,0 +1,74 @@
+20190828_RippleF2_d02.dat
+
+bin: 1ms
+log-evidence: -664339.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13322914809340658
+0.9286312254354432
+
+bin: 5ms
+log-evidence: -454185.11
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2079659102453575
+0.8839498023869446
+
+bin: 10ms
+log-evidence: -355391.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+bin: 15ms
+log-evidence: -296846.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28790339910140106
+0.8318416151575243
+
+bin: 20ms
+log-evidence: -255620.68
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29796070098336114
+0.8249390004358244
+
+bin: 30ms
+log-evidence: -200026.80
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29796070098336114
+0.8249390004358244
+
+bin: 40ms
+log-evidence: -162883.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29796070098336114
+0.8249390004358244
+
+bin: 50ms
+log-evidence: -136341.07
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.308018002865321
+0.8179543261175706
+

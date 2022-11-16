@@ -1,0 +1,162 @@
+20190125_Vocalization_d01.dat
+
+FIRST HALF
+bin: 1ms
+log-evidence: -27574.39
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0
+
+SECOND HALF
+bin: 1ms
+log-evidence: -26872.22
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+FIRST HALF
+bin: 5ms
+log-evidence: -19599.94
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+SECOND HALF
+bin: 5ms
+log-evidence: -19145.34
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+FIRST HALF
+bin: 10ms
+log-evidence: -16008.43
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337862
+0.9334895830571998
+
+SECOND HALF
+bin: 10ms
+log-evidence: -15574.61
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+FIRST HALF
+bin: 15ms
+log-evidence: -13755.39
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16630040272450475
+0.9093088077395047
+
+SECOND HALF
+bin: 15ms
+log-evidence: -13406.55
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+FIRST HALF
+bin: 20ms
+log-evidence: -12109.41
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337862
+0.9334895830571998
+
+SECOND HALF
+bin: 20ms
+log-evidence: -11801.24
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337884
+0.9334895830571995
+
+FIRST HALF
+bin: 30ms
+log-evidence: -9888.50
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16630040272450486
+0.9093088077395045
+
+SECOND HALF
+bin: 30ms
+log-evidence: -9706.41
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337884
+0.9334895830571995
+
+FIRST HALF
+bin: 40ms
+log-evidence: -8321.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2235677653583158
+0.8741478785407143
+
+SECOND HALF
+bin: 40ms
+log-evidence: -8284.58
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+FIRST HALF
+bin: 50ms
+log-evidence: -7161.41
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22356776535831602
+0.8741478785407139
+
+SECOND HALF
+bin: 50ms
+log-evidence: -7232.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1976849266298747
+0.8903161109005061
+

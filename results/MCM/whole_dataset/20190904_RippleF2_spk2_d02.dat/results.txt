@@ -1,0 +1,74 @@
+20190904_RippleF2_spk2_d02.dat
+
+bin: 1ms
+log-evidence: -570101.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+bin: 5ms
+log-evidence: -392339.13
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+bin: 10ms
+log-evidence: -306014.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33609023444260855
+0.7980117423434786
+
+bin: 15ms
+log-evidence: -255083.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33765063241307525
+0.7968834716716556
+
+bin: 20ms
+log-evidence: -219896.71
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.39859023444260844
+0.7511004097668446
+
+bin: 30ms
+log-evidence: -172664.65
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.39859023444260844
+0.7511004097668446
+
+bin: 40ms
+log-evidence: -141922.49
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.34788535166391266
+0.7894302601733589
+
+bin: 50ms
+log-evidence: -119391.97
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.38679511722130433
+0.7602318705141397
+

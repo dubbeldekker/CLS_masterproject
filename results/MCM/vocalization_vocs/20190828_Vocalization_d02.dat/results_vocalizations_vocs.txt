@@ -1,0 +1,1306 @@
+20190828_Vocalization_d02.dat
+
+bin: 1ms
+vocalization: 1
+log-evidence: -4564.88
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 2
+log-evidence: -5121.24
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 3
+log-evidence: -8202.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 4
+log-evidence: -9425.96
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 5
+log-evidence: -3184.66
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 6
+log-evidence: -7396.02
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 7
+log-evidence: -4909.58
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 8
+log-evidence: -9256.20
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 9
+log-evidence: -5705.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 10
+log-evidence: -8443.18
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 11
+log-evidence: -8836.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 12
+log-evidence: -5867.34
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 13
+log-evidence: -10373.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 14
+log-evidence: -5472.65
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 15
+log-evidence: -3842.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 16
+log-evidence: -4182.84
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 17
+log-evidence: -6029.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 18
+log-evidence: -6578.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+bin: 5ms
+vocalization: 1
+log-evidence: -2927.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 2
+log-evidence: -3312.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+vocalization: 3
+log-evidence: -5244.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0000000000000007
+
+vocalization: 4
+log-evidence: -6109.59
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+vocalization: 5
+log-evidence: -2111.70
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 6
+log-evidence: -4771.48
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.933333333333334
+
+vocalization: 7
+log-evidence: -3282.55
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 8
+log-evidence: -6055.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12500000000000022
+0.9333333333333335
+
+vocalization: 9
+log-evidence: -3624.75
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 10
+log-evidence: -5541.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 11
+log-evidence: -5617.41
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 12
+log-evidence: -3753.75
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07429511722130422
+0.9614192611309689
+
+vocalization: 13
+log-evidence: -6756.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 14
+log-evidence: -3487.67
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+vocalization: 15
+log-evidence: -2536.90
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03125000000000011
+0.9841269841269845
+
+vocalization: 16
+log-evidence: -2650.26
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 17
+log-evidence: -3894.65
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+vocalization: 18
+log-evidence: -4206.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+bin: 10ms
+vocalization: 1
+log-evidence: -2171.99
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.03124999999999989
+0.9841269841269848
+
+vocalization: 2
+log-evidence: -2504.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+vocalization: 3
+log-evidence: -3894.07
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09374999999999989
+0.9508196721311483
+
+vocalization: 4
+log-evidence: -4553.91
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+vocalization: 5
+log-evidence: -1620.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.933333333333334
+
+vocalization: 6
+log-evidence: -3561.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 7
+log-evidence: -2540.61
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 8
+log-evidence: -4564.15
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+vocalization: 9
+log-evidence: -2725.68
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 10
+log-evidence: -4187.21
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.9152542372881358
+
+vocalization: 11
+log-evidence: -4178.97
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.10554511722130411
+0.9442873418729855
+
+vocalization: 12
+log-evidence: -2803.52
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 13
+log-evidence: -5078.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+vocalization: 14
+log-evidence: -2573.86
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12500000000000022
+0.9333333333333335
+
+vocalization: 15
+log-evidence: -1922.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 16
+log-evidence: -1980.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09374999999999989
+0.9508196721311483
+
+vocalization: 17
+log-evidence: -2892.78
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260844
+0.9011953577671051
+
+vocalization: 18
+log-evidence: -3108.17
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+bin: 15ms
+vocalization: 1
+log-evidence: -1741.94
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 2
+log-evidence: -2011.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18750000000000022
+0.8965517241379313
+
+vocalization: 3
+log-evidence: -3102.74
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.10554511722130411
+0.9442873418729855
+
+vocalization: 4
+log-evidence: -3637.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260833
+0.9011953577671055
+
+vocalization: 5
+log-evidence: -1350.96
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09374999999999989
+0.9508196721311483
+
+vocalization: 6
+log-evidence: -2854.07
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.915254237288136
+
+vocalization: 7
+log-evidence: -2108.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 8
+log-evidence: -3697.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+vocalization: 9
+log-evidence: -2232.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 10
+log-evidence: -3411.51
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 11
+log-evidence: -3346.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 12
+log-evidence: -2251.23
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 13
+log-evidence: -4110.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 14
+log-evidence: -2066.61
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18750000000000022
+0.896551724137931
+
+vocalization: 15
+log-evidence: -1572.56
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.9152542372881358
+
+vocalization: 16
+log-evidence: -1571.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.9152542372881358
+
+vocalization: 17
+log-evidence: -2329.47
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1680451172213041
+0.908270056866022
+
+vocalization: 18
+log-evidence: -2482.30
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+bin: 20ms
+vocalization: 1
+log-evidence: -1442.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910891
+
+vocalization: 2
+log-evidence: -1711.55
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910891
+
+vocalization: 3
+log-evidence: -2584.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.10554511722130433
+0.9442873418729851
+
+vocalization: 4
+log-evidence: -3031.09
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910894
+
+vocalization: 5
+log-evidence: -1163.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09374999999999989
+0.9508196721311483
+
+vocalization: 6
+log-evidence: -2390.80
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 7
+log-evidence: -1771.11
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.9152542372881358
+
+vocalization: 8
+log-evidence: -3091.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 9
+log-evidence: -1868.93
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910894
+
+vocalization: 10
+log-evidence: -2887.33
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.9152542372881358
+
+vocalization: 11
+log-evidence: -2787.71
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 12
+log-evidence: -1895.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 13
+log-evidence: -3456.38
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.125
+0.9333333333333338
+
+vocalization: 14
+log-evidence: -1724.17
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+vocalization: 15
+log-evidence: -1329.79
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260844
+0.9011953577671051
+
+vocalization: 16
+log-evidence: -1330.24
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 17
+log-evidence: -1956.92
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 18
+log-evidence: -2079.26
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260855
+0.8820006249019295
+
+bin: 30ms
+vocalization: 1
+log-evidence: -1055.54
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910891
+
+vocalization: 2
+log-evidence: -1292.93
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+vocalization: 3
+log-evidence: -1891.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 4
+log-evidence: -2243.03
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 5
+log-evidence: -909.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 6
+log-evidence: -1772.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.915254237288136
+
+vocalization: 7
+log-evidence: -1365.43
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+vocalization: 8
+log-evidence: -2340.89
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1562500000000001
+0.915254237288136
+
+vocalization: 9
+log-evidence: -1426.13
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910893
+
+vocalization: 10
+log-evidence: -2215.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910891
+
+vocalization: 11
+log-evidence: -2077.66
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1680451172213041
+0.908270056866022
+
+vocalization: 12
+log-evidence: -1426.82
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 13
+log-evidence: -2591.70
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.950819672131148
+
+vocalization: 14
+log-evidence: -1263.36
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910893
+
+vocalization: 15
+log-evidence: -1008.24
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 16
+log-evidence: -981.94
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18750000000000022
+0.896551724137931
+
+vocalization: 17
+log-evidence: -1459.75
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 18
+log-evidence: -1561.85
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+bin: 40ms
+vocalization: 1
+log-evidence: -831.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+vocalization: 2
+log-evidence: -1032.15
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910893
+
+vocalization: 3
+log-evidence: -1480.98
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130433
+0.8893238313910893
+
+vocalization: 4
+log-evidence: -1759.02
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910893
+
+vocalization: 5
+log-evidence: -763.79
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24234023444260855
+0.8621233533409369
+
+vocalization: 6
+log-evidence: -1404.01
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.13679511722130422
+0.9265807434889858
+
+vocalization: 7
+log-evidence: -1091.95
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2617951172213042
+0.8493876528509126
+
+vocalization: 8
+log-evidence: -1840.10
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 9
+log-evidence: -1133.64
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2500000000000002
+0.8571428571428572
+
+vocalization: 10
+log-evidence: -1794.51
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 11
+log-evidence: -1639.52
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 12
+log-evidence: -1132.71
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 13
+log-evidence: -2065.09
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12500000000000022
+0.9333333333333335
+
+vocalization: 14
+log-evidence: -994.93
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.27515063241307547
+0.8404784570852046
+
+vocalization: 15
+log-evidence: -790.72
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28538535166391266
+0.8335571482835173
+
+vocalization: 16
+log-evidence: -775.97
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18750000000000022
+0.896551724137931
+
+vocalization: 17
+log-evidence: -1146.51
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28538535166391277
+0.8335571482835172
+
+vocalization: 18
+log-evidence: -1266.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260833
+0.9011953577671055
+
+bin: 50ms
+vocalization: 1
+log-evidence: -658.91
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910894
+
+vocalization: 2
+log-evidence: -845.68
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.19929511722130422
+0.8893238313910893
+
+vocalization: 3
+log-evidence: -1206.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 4
+log-evidence: -1452.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+vocalization: 5
+log-evidence: -645.66
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660218
+
+vocalization: 6
+log-evidence: -1156.34
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260844
+0.8820006249019297
+
+vocalization: 7
+log-evidence: -916.28
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2617951172213042
+0.8493876528509126
+
+vocalization: 8
+log-evidence: -1523.60
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+vocalization: 9
+log-evidence: -977.25
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1875
+0.8965517241379314
+
+vocalization: 10
+log-evidence: -1502.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2187500000000001
+0.8771929824561405
+
+vocalization: 11
+log-evidence: -1364.98
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2617951172213042
+0.8493876528509126
+
+vocalization: 12
+log-evidence: -931.65
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130433
+0.869708394678443
+
+vocalization: 13
+log-evidence: -1694.52
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2617951172213042
+0.8493876528509126
+
+vocalization: 14
+log-evidence: -814.01
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24234023444260855
+0.8621233533409369
+
+vocalization: 15
+log-evidence: -663.77
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24234023444260855
+0.8621233533409369
+
+vocalization: 16
+log-evidence: -642.28
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16804511722130433
+0.9082700568660217
+
+vocalization: 17
+log-evidence: -947.74
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23054511722130444
+0.8697083946784425
+
+vocalization: 18
+log-evidence: -1057.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.15625
+0.9152542372881362
+

@@ -1,0 +1,154 @@
+20190904_RippleF2_spk2_d02.dat
+
+bin: 1ms
+part: 1
+log-evidence: -231719.12
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.09375000000000011
+0.9508196721311479
+
+part: 2
+log-evidence: -232332.50
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0625
+0.9677419354838716
+
+bin: 5ms
+part: 1
+log-evidence: -159417.33
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+part: 2
+log-evidence: -159285.37
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.17984023444260844
+0.9011953577671051
+
+bin: 10ms
+part: 1
+log-evidence: -124114.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+part: 2
+log-evidence: -124169.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22288535166391255
+0.8745802068129935
+
+bin: 15ms
+part: 1
+log-evidence: -103326.81
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.27359023444260844
+0.84152647888071
+
+part: 2
+log-evidence: -103511.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+bin: 20ms
+part: 1
+log-evidence: -88901.44
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+part: 2
+log-evidence: -89143.10
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+bin: 30ms
+part: 1
+log-evidence: -69724.48
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.30484023444260855
+0.8201702042271085
+
+part: 2
+log-evidence: -69791.14
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28694574963437935
+0.8324946512504576
+
+bin: 40ms
+part: 1
+log-evidence: -57235.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.30484023444260855
+0.8201702042271085
+
+part: 2
+log-evidence: -57113.70
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28694574963437935
+0.8324946512504576
+
+bin: 50ms
+part: 1
+log-evidence: -48191.16
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.25413535166391266
+0.8544358224412653
+
+part: 2
+log-evidence: -47898.23
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21109023444260844
+0.8820006249019297
+

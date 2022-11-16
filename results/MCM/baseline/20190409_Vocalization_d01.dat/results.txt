@@ -1,0 +1,74 @@
+20190409_Vocalization_d01.dat
+
+bin: 1ms
+log-evidence: -205905.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08999479073800387
+0.9528824370207988
+
+bin: 5ms
+log-evidence: -149023.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21316663694945037
+0.8807014457209795
+
+bin: 10ms
+log-evidence: -122828.99
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.23461173986403883
+0.8671047354501096
+
+bin: 15ms
+log-evidence: -106849.11
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29796070098336125
+0.8249390004358242
+
+bin: 20ms
+log-evidence: -95362.25
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3447211343659622
+0.7917443752089951
+
+bin: 30ms
+log-evidence: -79514.94
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3346638324840021
+0.7990412752620486
+
+bin: 40ms
+log-evidence: -68655.35
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3447211343659622
+0.7917443752089951
+
+bin: 50ms
+log-evidence: -60695.63
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.3765676906887363
+0.7680422592744293
+

@@ -1,0 +1,154 @@
+20190828_RippleF2_d02.dat
+
+bin: 1ms
+part: 1
+log-evidence: -261360.32
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08999479073800376
+0.952882437020799
+
+part: 2
+log-evidence: -258212.19
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08999479073800376
+0.952882437020799
+
+bin: 5ms
+part: 1
+log-evidence: -178158.29
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1598749777120877
+0.9131173285642796
+
+part: 2
+log-evidence: -176251.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.15987497771208758
+0.9131173285642799
+
+bin: 10ms
+part: 1
+log-evidence: -139218.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.21316663694945026
+0.8807014457209795
+
+part: 2
+log-evidence: -137660.42
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.20796591024535738
+0.8839498023869448
+
+bin: 15ms
+part: 1
+log-evidence: -116182.19
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+part: 2
+log-evidence: -114946.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+bin: 20ms
+part: 1
+log-evidence: -100132.48
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29796070098336114
+0.8249390004358246
+
+part: 2
+log-evidence: -98785.49
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+bin: 30ms
+part: 1
+log-evidence: -78351.01
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.32460653060204236
+0.806250569474472
+
+part: 2
+log-evidence: -77111.85
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+bin: 40ms
+part: 1
+log-evidence: -63836.39
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.32460653060204225
+0.8062505694744722
+
+part: 2
+log-evidence: -62669.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+
+bin: 50ms
+part: 1
+log-evidence: -53385.58
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.32460653060204225
+0.8062505694744722
+
+part: 2
+log-evidence: -52458.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26125756948271983
+0.8497433749258679
+

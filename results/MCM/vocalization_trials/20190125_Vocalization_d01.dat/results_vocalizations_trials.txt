@@ -1,0 +1,370 @@
+20190125_Vocalization_d01.dat
+
+bin: 1ms
+trial: 1
+log-evidence: -49445.18
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225237
+0.9566214309429225
+
+trial: 2
+log-evidence: -49080.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.04157510068112624
+0.9787711539535746
+
+trial: 3
+log-evidence: -45298.05
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0
+
+trial: 4
+log-evidence: -49146.04
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0
+
+trial: 5
+log-evidence: -43946.46
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.0
+1.0
+
+bin: 5ms
+trial: 1
+log-evidence: -35172.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225248
+0.9566214309429224
+
+trial: 2
+log-evidence: -35107.67
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16630040272450475
+0.9093088077395047
+
+trial: 3
+log-evidence: -32494.12
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337862
+0.9334895830571998
+
+trial: 4
+log-evidence: -35089.02
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.08315020136225237
+0.9566214309429225
+
+trial: 5
+log-evidence: -31547.80
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12472530204337862
+0.9334895830571998
+
+bin: 10ms
+trial: 1
+log-evidence: -28494.50
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+trial: 2
+log-evidence: -28627.38
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16630040272450475
+0.9093088077395047
+
+trial: 3
+log-evidence: -26592.98
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.14041756399606342
+0.9244897342126939
+
+trial: 4
+log-evidence: -28564.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26514286603944204
+0.8471673195163111
+
+trial: 5
+log-evidence: -25790.32
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.16630040272450486
+0.9093088077395045
+
+bin: 15ms
+trial: 1
+log-evidence: -24531.45
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+trial: 2
+log-evidence: -24618.25
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2235677653583158
+0.8741478785407143
+
+trial: 3
+log-evidence: -22952.93
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+trial: 4
+log-evidence: -24594.23
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22356776535831602
+0.8741478785407139
+
+trial: 5
+log-evidence: -22282.76
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22356776535831602
+0.8741478785407139
+
+bin: 20ms
+trial: 1
+log-evidence: -21629.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28083512799212684
+0.836644447216904
+
+trial: 2
+log-evidence: -21811.31
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+trial: 3
+log-evidence: -20323.27
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.22356776535831602
+0.8741478785407141
+
+trial: 4
+log-evidence: -21732.60
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+trial: 5
+log-evidence: -19735.87
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+bin: 30ms
+trial: 1
+log-evidence: -17605.40
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.28083512799212706
+0.8366444472169037
+
+trial: 2
+log-evidence: -17892.91
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2235677653583158
+0.8741478785407143
+
+trial: 3
+log-evidence: -16698.61
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1976849266298747
+0.8903161109005061
+
+trial: 4
+log-evidence: -17795.74
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33260080544900894
+0.8005271883686055
+
+trial: 5
+log-evidence: -16212.13
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+bin: 40ms
+trial: 1
+log-evidence: -14911.07
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29102570476788314
+0.8297073832065125
+
+trial: 2
+log-evidence: -15168.14
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.29102570476788303
+0.8297073832065127
+
+trial: 3
+log-evidence: -14171.86
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24945060408675712
+0.8575015337075813
+
+trial: 4
+log-evidence: -15010.48
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26514286603944204
+0.8471673195163111
+
+trial: 5
+log-evidence: -13762.62
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.18199266467718966
+0.8998944277389977
+
+bin: 50ms
+trial: 1
+log-evidence: -12884.74
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.30671796672056817
+0.8188618548520602
+
+trial: 2
+log-evidence: -13194.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.40556043003550524
+0.7456407645198267
+
+trial: 3
+log-evidence: -12347.58
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24945060408675712
+0.8575015337075813
+
+trial: 4
+log-evidence: -13028.76
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.26514286603944204
+0.8471673195163111
+
+trial: 5
+log-evidence: -11967.70
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.2494506040867569
+0.8575015337075814
+

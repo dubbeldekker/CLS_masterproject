@@ -1,0 +1,74 @@
+20180727_Ripple2_d01.dat
+
+bin: 1ms
+log-evidence: -408500.75
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.07010330595238412
+0.9636750992068104
+
+bin: 5ms
+log-evidence: -262789.82
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33333333333333326
+0.7999999999999999
+
+bin: 10ms
+log-evidence: -194779.57
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.33333333333333326
+0.7999999999999999
+
+bin: 15ms
+log-evidence: -158016.95
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.4470798904762032
+0.7121037407305516
+
+bin: 20ms
+log-evidence: -133439.38
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.44707989047620333
+0.7121037407305514
+
+bin: 30ms
+log-evidence: -101293.42
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.44707989047620333
+0.7121037407305514
+
+bin: 40ms
+log-evidence: -80575.47
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.44707989047620333
+0.7121037407305514
+
+bin: 50ms
+log-evidence: -66062.17
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.44707989047620333
+0.7121037407305514
+

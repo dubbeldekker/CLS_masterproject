@@ -1,0 +1,74 @@
+20180727_Vocalization_d01.dat
+
+bin: 1ms
+log-evidence: -41166.47
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.06020599913279623
+0.9689626841273452
+
+bin: 5ms
+log-evidence: -28576.08
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.12041199826559246
+0.9359370254787319
+
+bin: 10ms
+log-evidence: -22668.01
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.06020599913279623
+0.9689626841273452
+
+bin: 15ms
+log-evidence: -19252.37
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1806179973983888
+0.9007256325828685
+
+bin: 20ms
+log-evidence: -16851.65
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1806179973983888
+0.9007256325828685
+
+bin: 30ms
+log-evidence: -13541.57
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.1806179973983888
+0.9007256325828685
+
+bin: 40ms
+log-evidence: -11331.28
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24082399653118503
+0.8631040918837465
+
+bin: 50ms
+log-evidence: -9773.30
+### Complete ###
+1.0
+0.0
+### Independent ###
+0.24082399653118503
+0.8631040918837465
+
