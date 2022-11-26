@@ -1,5 +1,0 @@
-spin variables:              9
-data points:                 22208
-local fields:                9
-spin-spin interactions:      36
-total parameters:            45
