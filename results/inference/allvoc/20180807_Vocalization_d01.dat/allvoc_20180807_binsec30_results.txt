@@ -1,0 +1,9 @@
+spin variables:              15
+data points:                 3726
+local fields:                15
+spin-spin interactions:      105
+total parameters:            120
+Optimization terminated successfully. 76 iterations in 0.25 sec
+DKL: 0.5285
+Norm of gradient: 3.26e-05
+Entropy: 6.984

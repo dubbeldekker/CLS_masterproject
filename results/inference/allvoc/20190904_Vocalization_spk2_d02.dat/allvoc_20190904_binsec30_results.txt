@@ -1,0 +1,9 @@
+spin variables:              17
+data points:                 3727
+local fields:                17
+spin-spin interactions:      136
+total parameters:            153
+Desired error not necessarily achieved due to precision loss. 361 iterations in 5.25 sec
+DKL: 0.2322
+Norm of gradient: 0.0007932
+Entropy: 5.22
